@@ -21,7 +21,7 @@ Compile all of the Java files EXCEPT any filenames that contain the strings "Fox
 
 Go to the ex3 subdirectory.
 
-Create a list of all processes running on the system (by all users, not just you) which contain the string "sh", but do *not* contain the string "bash", and put the result in the file "nobash.txt".
+Create a list of all processes running on the system (by all users, not just you) which contain the string "sh", but do *not* contain the string "bash", and *append* (do not overwrite what is already there!) the result to the file "nobash.txt".
 
 ## Exercise 4
 

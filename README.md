@@ -27,6 +27,7 @@ Create a list of all processes running on the system (by all users, not just you
 
 Go to the ex4 subdirectory.
 
+For all files, including hidden ones, whose filenames include the pattern "B[a]*" (capital B plus ZERO or more lowercase a's) but do not contain the pattern "A" (capital A), find which ones have lines which contain the string "sheep".
 
 
 

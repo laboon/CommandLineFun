@@ -1,0 +1,10 @@
+Code: 18 Time: 42
+Code: 19 Time: 43
+Code: 10 Time: 118
+Code: 12 Time: 121
+Code: 14 Time: 145
+Code: 14 Time: 189
+Code: 14 Time: 190
+Code: 11 Time: 193
+Code: 12 Time: 229
+------------------
